@@ -1,4 +1,4 @@
-# jpa03-li-kelly
+# STARTER-jpa03
 
 Running at: https://jpa03-li-kelly.dokku-16.cs.ucsb.edu
 
